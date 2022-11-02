@@ -1,2 +1,3 @@
 # AccessVbaProject
 Access database project programmed in SQL and vba
+MS Access database college project with vba By Yael Abramowitz, Maalot Yerushalayim, 2022 This MS Access database allows a real estate company to keep track of employees, clients, and properties. All information is closely related, allowing user to match clients to available properties corresponding to what they seek (see clients form). Employee and property types can be edited from other related forms (e.g., right click "property type" on the clients form) Drop-down combo boxes allow user to automatically filter our irrelevant data Transctions are irreversible, and duly update all related table on the backend Easy-to-use UI design for a comfortable and enjoyable user experience
